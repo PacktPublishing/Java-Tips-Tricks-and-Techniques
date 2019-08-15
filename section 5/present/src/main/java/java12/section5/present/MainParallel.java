@@ -64,7 +64,7 @@ public class MainParallel {
         time("");
         System.out.println();
 
-        System.out.println("The words below can be found more than " + limit + " times ");
+        System.out.println("The words below can be found more than " + 500 + " times ");
         System.out.println("in The Complete Works of William Shakespeare");
         System.out.println();
         System.out.print("WordCountResult:           ");
