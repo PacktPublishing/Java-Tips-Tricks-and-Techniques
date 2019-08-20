@@ -20,27 +20,26 @@ By the end of this course, you will have learned some exciting Java 12 tips, bes
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-This course is for programmers/developers who have a basic knowledge of OOPs (preferably in Java) and are looking to refine their code through design patterns in their day-to-day coding practices.
+This course is for Java developers seeking to speed up the way they code; use proven techniques to write code more easily; and are looking for best practices to build better applications in Java.
+If you're a CTO or a QA engineer (or are working with previous versions of Java and need an update), you will benefit greatly from this course!
+
 ### Technical Requirements <br/>
 For successful completion of this course, students will require the computer systems with at least the following:<br/>
-OS: Any operating system until it can run Java<br/>
-Processor: 1.8 GHz or faster processor, dual or quad-core recommended<br/>
-Memory: 1 GB RAM minimum, 2 GB RAM recommended<br/>
-Storage: 300 MB hard disk space + at least 1 GB for caches<br/>
-<br/>
-Recommended Hardware Requirements:<br/>
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:<br/>
-OS: Any operating system until it can run Java<br/>
-Processor: 2.5 GHz or faster dual or quad-core processor<br/>
-Memory:  4 GB RAM or more<br/>
-Storage: 2 GB MB hard disk space + at least 1 GB for caches<br/><br/>
 
-Software Requirements:
-JDK 12 <br/>
-IntelliJ IDEA (Community Edition) <br/>
+Recommended Hardware Requirements:<br/>
+For an optimal experience with hands-on and practical activities, we recommend the following configuration:<br/>
+•	OS: Microsoft Windows 10/8/7/Vista/2003/XP (incl.64-bit), macOS 10.8.3 or higher, GNOME or KDE desktop<br/>
+•	Processor: Dual core processor<br/>
+•	Memory:  2 GB RAM minimum, 4 GB RAM recommended<br/>
+•	Storage: 1.5 GB hard disk space + at least 1 GB for caches<br/>
+•	Display: 1024x768 minimum screen resolution<br/><br/>
+
+Software Requirements:<br/>
+•	JDK 12<br/>
+•	IntelliJ IDEA (Community Edition) <br/>
 
 ## Related Products
-* [Mastering GitLab [Video]](https://www.packtpub.com/networking-and-servers/mastering-gitlab-video?utm_source=github&utm_medium=repository&utm_campaign=9781789537642)
+* [Design Patterns and SOLID Principles with Java [Video]](https://www.packtpub.com/programming/design-patterns-and-solid-principles-with-java-video)
 
 * [Mastering Palo Alto Networks [Video]](https://www.packtpub.com/networking-and-servers/mastering-palo-alto-networks-video)
 
