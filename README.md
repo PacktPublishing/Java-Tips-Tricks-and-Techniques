@@ -20,7 +20,7 @@ By the end of this course, you will have learned some exciting Java 12 tips, bes
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-This course is for Java developers seeking to speed up the way they code; use proven techniques to write code more easily; and are looking for best practices to build better applications in Java.
+This course is for Java developers seeking to speed up the way they code; use proven techniques to write code more easily; and are looking for best practices to build better applications in Java.<br/>
 If you're a CTO or a QA engineer (or are working with previous versions of Java and need an update), you will benefit greatly from this course!
 
 ### Technical Requirements <br/>
